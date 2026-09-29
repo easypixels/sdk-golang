@@ -1,0 +1,8 @@
+/dist/
+/easypixel-send
+*.test
+*.out
+/.idea/
+/.vscode/
+*.swp
+*.swo
